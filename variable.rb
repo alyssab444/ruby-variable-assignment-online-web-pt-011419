@@ -1,3 +1,3 @@
- def greeting
+ def variable
    greeting= "Hello World"
   end 
